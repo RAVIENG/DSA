@@ -1,0 +1,32 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        ".",
+        "2d_Array.java",
+        "Array.java",
+        "Backtracking.java",
+        "bit_Manipulation.java",
+        "DivideAnd_conquer.java",
+        "Oops.java",
+        "Recursion.java",
+        "Sorting_Algorithm.java",
+        "questionBank.java",
+        "ArrayList.java",
+        "LinkedList.java",
+        "Stack.java",
+        "Queue.java",
+        "GreedyAlgorithm.java",
+        "BinaryTree.java",
+        "BinarySearchTree.java",
+        "Heap.java",
+        "Hashing.java",
+        "Tries.java",
+        "Graph.java",
+        "DynamicProgramming.java",
+        "SegmentTree.java"
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "java.project.referencedLibraries": []
+    
+
+}
